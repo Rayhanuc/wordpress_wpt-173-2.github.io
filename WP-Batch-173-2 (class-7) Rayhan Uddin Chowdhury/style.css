@@ -1,0 +1,72 @@
+body {
+	background: #ebebeb;
+}
+
+h1 {
+	background: #beff00;
+	color: #f539ed;
+	font-size: 50px;
+	text-transform: ;
+	text-decoration: overline;
+	font-family: Arial;
+	display: inline-block;
+}
+
+h2 {
+	background: rgb(113, 26, 113);
+	color: #f1ec21;
+	font-size: 	40px;
+}
+
+
+ul.jekono {
+	list-style: upper-roman;
+}
+
+table, th, td {
+	border: 1px solid red;
+}
+
+table td {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}
+
+span {
+    background: red;
+    display: block;
+}
+
+.jekono > p {
+    background: yellow;
+}
+
+.jekono2 + p {
+	background: green;
+}
+
+p:hover {
+	color: red;
+}
+
+.par:active {
+	color: white;
+}
+
+p::first-letter {
+	color:#686868;
+	font-size: 60px;
+}
+
+.imge1 img {
+    margin-left: 200px;
+    border-radius: 31px;
+    border: 5px solid #fff;
+    box-shadow: 6px 6px 18px #696868;
+}
+
+input[type=text], input[type=email] {
+	width: 400px;
+	height: 50px;
+}
