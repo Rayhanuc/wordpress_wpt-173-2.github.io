@@ -1,0 +1,14 @@
+.one-box {
+    background: #ff22f7;
+    height: 200px;
+    width: 200px;
+    box-shadow: 5px 4px 11px #b1b1b1;
+    margin-bottom: 50px;
+}
+.one-box2 {
+    background: #ff22f7;
+    height: 200px;
+    width: 200px;
+    box-shadow: 5px 4px 11px #b1b1b1;
+    display: none;
+}
