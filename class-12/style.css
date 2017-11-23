@@ -1,0 +1,52 @@
+.boxes {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+
+.new {
+    font-size: 66px;
+    color: blue;
+}
+/* part 14 */
+#panel, #flip {
+    padding: center;
+    text-align: center;
+    background-color: blue;
+    border: solid 1px #c3c3c3;
+}
+
+#panel {
+    padding: 50px;
+}
+
+#panel2, #flip2 {
+    padding: center;
+    text-align: center;
+    background-color: #d8ff00;
+    border: solid 1px #c3c3c3;
+}
+
+#panel2 {
+    padding: 50px;
+}
+
+#panel3, #flip3 {
+    padding: center;
+    text-align: center;
+    background-color: #ffa500;
+    border: solid 1px #c3c3c3;
+}
+
+#panel3 {
+    padding: 50px;
+}
+
+.name {
+    margin-top: 15px;
+}
+
+.add {
+    background-color: black;
+    color: white;
+}
